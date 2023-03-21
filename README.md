@@ -1,4 +1,4 @@
-I am a UTSA student currently majoring in Business of Cyber Security.
+I am a UTSA student currently majoring in a Bachelors of Business in Cyber Security.
 
 :hammer_and_wrench: Technical Skills
 <div>
